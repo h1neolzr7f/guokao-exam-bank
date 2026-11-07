@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+# Binary fixtures (question images) must never be text-normalised
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
